@@ -1,5 +1,5 @@
 {
-  "version": "3.1.7",
+  "version": "3.1.7-vq",
   "packOptions": {
     "owners": [
       "Shay Rojansky",
@@ -103,7 +103,7 @@
         "System.Net.NetworkInformation": "4.1.0",
         "System.Runtime": "4.1.0",
         "System.Runtime.InteropServices": "4.1.0",
-	"System.Runtime.InteropServices.RuntimeInformation": "4.0.0",
+	      "System.Runtime.InteropServices.RuntimeInformation": "4.0.0",
         "System.Runtime.Numerics": "4.0.1",
         "System.Reflection": "4.1.0",
         "System.Reflection.Extensions": "4.0.1",
